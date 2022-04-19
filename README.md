@@ -28,7 +28,7 @@
   <i>Tomando como base el código en este repositorio se ha creado el programa que se muestra (puedes descargarlo dando click en la imagen):</i>
 </h3>
 
-<a href="https://drive.google.com/file/d/1wbXAo4QTmQoGd82RTK4RYQAEw72hkW42/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1CuPBBlZAnMhgA1tXEcK87w22ixgCVxI-/view?usp=sharing">
           <img src="/Img/proyectil.gif" width=500>
 </a>
 
